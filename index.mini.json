@@ -1,0 +1,15 @@
+{
+  "animeWebsites": [
+    {
+      "name": "HiAnime",
+      "url": "https://hianime.to",
+      "description": "HiAnime is a streaming site offering a wide selection of anime series and movies.",
+      "features": [
+        "Free streaming",
+        "High-quality video",
+        "User-friendly interface",
+        "Regular updates with new episodes"
+      ]
+    }
+  ]
+}
